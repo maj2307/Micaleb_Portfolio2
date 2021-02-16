@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Micaleb Johnson</title>
+    <link>https://maj2307.github.io/micalebj.com/</link>
+    <description>Recent content in Data Science Portfolio on Micaleb Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://maj2307.github.io/micalebj.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://maj2307.github.io/micalebj.com/about/</link>
+      <pubDate>Mon, 15 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/about/</guid>
+      <description>  I study Statistics at Texas A&amp;amp;M University and will graduate in May of 2021 with minors in Math and Sports Management. Data Science and Sports Analytics are my main passions. I am also interested in learning more about Time Series Analysis, Data Visualization, and Simulation methods.
+   Statistics Coursework     Texas A&amp;amp;M STAT 182 - Foundations of Statistics Texas A&amp;amp;M STAT 211 - Principles of Statistics I Texas A&amp;amp;M STAT 212 - Principles of Statistics II Texas A&amp;amp;M STAT 404 - Statistical Computing Texas A&amp;amp;M STAT 406 - Experimental Design and Analysis Texas A&amp;amp;M STAT 407 - Principles of Sample Surveys Texas A&amp;amp;M STAT 408 - Linear Models Texas A&amp;amp;M STAT 414 - Mathematical Statistics I Texas A&amp;amp;M STAT 415 - Mathematical Statistics II Texas A&amp;amp;M STAT 445 - Applied Biostatistics and Data Analysis Texas A&amp;amp;M STAT 482 - Statistics Capstone Texas A&amp;amp;M STAT 639 - Data Mining and Analysis     Mathematics Coursework     Texas A&amp;amp;M MATH 171 - Calculus I Texas A&amp;amp;M MATH 172 - Calculus II Austin Community College MATH 253 - Calculus III Texas A&amp;amp;M MATH 300 - Foundations of Mathematics Texas A&amp;amp;M MATH 304 - Linear Algebra Texas A&amp;amp;M MATH 308 - Differential Equations Texas A&amp;amp;M MATH 419 - Applications of Actuarial Science Texas A&amp;amp;M MATH 433 - Applied Algebra     Sports Management Coursework     Texas A&amp;amp;M SPMT 217 Foundations of Sport Management Texas A&amp;amp;M SPMT 304 - Sport Psychology Management and Practice Texas A&amp;amp;M SPMT 336 - Diversity in Sport Organizations Texas A&amp;amp;M SPMT 340 - Sport Governance Texas A&amp;amp;M SPMT 481 - Seminars in Sports History, College Athletics, and Sports Agencies     R and Python     Texas A&amp;amp;M CSCE 110 - Intro to Python Texas A&amp;amp;M CSCE 111 - Intro to Java     Machine Learning &amp;amp; Data Science      LinkedIn Learning - Mistakes to Avoid in Machine Learning  </description>
+    </item>
+    
+    <item>
+      <title>Project 4: NFL Draft R Shiny App</title>
+      <link>https://maj2307.github.io/micalebj.com/post/project-4/</link>
+      <pubDate>Mon, 15 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/post/project-4/</guid>
+      <description>I am currently learning about building web applications using shiny in R. I am using these skills to create a web app that
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>NBA Play Styles Clustering Project</title>
+      <link>https://maj2307.github.io/micalebj.com/post/project-2/</link>
+      <pubDate>Thu, 14 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/post/project-2/</guid>
+      <description>I am currently learning about clustering methods. To work on these skills I am beginning a project that utilizes clustering to group NBA players together based on their play styles and attempt to see which play styles grouped together have the most success.</description>
+    </item>
+    
+    <item>
+      <title>Netflix Movie Tracker</title>
+      <link>https://maj2307.github.io/micalebj.com/post/project-3/</link>
+      <pubDate>Thu, 14 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/post/project-3/</guid>
+      <description>This project tasked my team and I with using the python programming skills we learned to answer questions about a dataset. These questions required us to have knowledge of the packages matplotlib and csv for plotting and reading in the dataset as a .csv file. We also utilized a good understanding of data structures, conditional statements, and loops to complete this project.
+ Worked together with a team where we used python to manipulate a large movie dataset in order to draw various inferences from the data Organized the dataset to make it possible for graphics to be made allowing for a clear interpretation of the data Applied knowledge of the python modules matplotlib and csv as well as loops, conditional statements, and data structures    Number of movies released in different months of 2016 by category   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Capstone Project: NBA Draft Prospect Analysis</title>
+      <link>https://maj2307.github.io/micalebj.com/post/project-1/</link>
+      <pubDate>Thu, 14 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/post/project-1/</guid>
+      <description>In this project I worked with a team to predict an NBA Draft prospects NBA career success based only on pre-NBA data for each player (height, weight, age, college statistics, position, etc.). Then based on our projections we assigned a value to each pick number based on the expected win shares each pick should produce. Picking the correct players in the draft is vital to an NBA teams success and thus the ability to accurately predict which prospects would turn out to be good players is extremely important for teams.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maj2307.github.io/micalebj.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maj2307.github.io/micalebj.com/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Linkedin: https://www.linkedin.com/in/micalebjohnson/   GitHub: https://github.com/maj2307    </description>
+    </item>
+    
+  </channel>
+</rss>
